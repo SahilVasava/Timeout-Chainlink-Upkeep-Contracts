@@ -16,5 +16,9 @@
     "ethereum-waffle": "^3.0.0",
     "ethers": "^5.0.0",
     "hardhat": "^2.8.2"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.3.1",
+    "@openzeppelin/contracts": "^4.4.2"
   }
 }
